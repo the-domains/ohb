@@ -1,19 +1,4 @@
-name: ohb
-favicon: null
-layout_spectrum: 0.23900216654874384
 typography_spectrum: 0.2795884497463703
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#A690A4'
@@ -25,4 +10,20 @@ color:
   lightness: 0.5205656564794481
   saturation: 0.5855060385074466
   rhythmicContrast: 0.61797143984586
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.23900216654874384
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: ohb
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: orange haired boy
 purpose: []
